@@ -1,2 +1,2 @@
 # random_banners
-Random logon and banner script 
+Random quotes and banners
