@@ -1,0 +1,74 @@
+One man's constant is another man's variable. - Alan J. Perlis
+Functions delay binding; data structures induce binding. Moral: Structure data late in the programming process. - Alan J. Perlis
+Syntactic sugar causes cancer of the semicolon. - Alan J. Perlis
+Every program is a part of some other program and rarely fits. - Alan J. Perlis
+If a program manipulates a large amount of data, it does so in a small number of ways. - Alan J. Perlis
+Symmetry is a complexity-reducing concept (co-routines include subroutines); seek it everywhere. - Alan J. Perlis
+It is easier to write an incorrect program than understand a correct one. - Alan J. Perlis
+A programming language is low level when its programs require attention to the irrelevant. - Alan J. Perlis
+The only way to learn a new programming language is by writing programs in it. - Brian Kernighan
+The computer is a very powerful tool, but it’s also very easy to make mistakes. - James Gosling
+In programming, the hard part isn’t solving problems, but deciding what problems to solve. - Unknown
+The best way to predict the future is to invent it. - Alan Kay
+Hackers are the immune system of the Internet. - Unknown
+It's not a bug; it's an undocumented feature. - Unknown
+Good programmers use their brains, but good guidelines save us from having to think out every case. - Francis Glassborow
+Linux is only free if your time is worthless. - Jamie Zawinski
+The nice thing about standards is that you have so many to choose from. - Andrew S. Tanenbaum
+The best things in life are free. The second best are very expensive. - Coco Chanel
+There are only two kinds of programming languages: those people always bitch about and those nobody uses. - Bjarne Stroustrup
+Anonymous hacking is like a ghost in the machine; it exists but cannot be seen. - Unknown
+The Internet is the world's largest library, but it is not without its ghosts. - Unknown
+Knowledge is power. Sharing it is liberating. - Unknown
+A hacker does for love what others would not do for money. - Eduardo Sabastiao
+The difference between a programmer and a user is that a programmer is a user who has not yet met a bug. - Unknown
+The only thing worse than a bad programmer is a good programmer who doesn't know how to communicate. - Unknown
+Hacking is not about breaking in. It’s about finding ways to solve problems creatively. - Unknown
+The more I learn, the more I realize how much I don’t know. - Unknown
+To err is human, but to really foul things up you need a computer. - Paul R. Ehrlich
+The best way to get a good idea is to have a lot of ideas. - Linus Pauling
+The future belongs to those who believe in the beauty of their dreams. - Eleanor Roosevelt
+The only way to do great work is to love what you do. - Steve Jobs
+If you think you are too small to make a difference, try sleeping with a mosquito. - Dalai Lama
+A good programmer is always lazy. - Larry Wall
+You can’t have everything. Where would you put it? - Steven Wright
+I’m not a great programmer; I’m just a good programmer with great habits. - Kent Beck
+The best error message is the one that never shows up. - Anonymous
+Simplicity is the soul of efficiency. - Austin Freeman
+Programming is like sex: one mistake and you have to support it for the rest of your life. - Michael Sinz
+Software is like sex: it’s better when it’s free. - Linus Torvalds
+It's not a bug; it's a feature. - Unknown
+A computer lets you make more mistakes faster than any invention in human history—with the possible exceptions of handguns and tequila. - Mitch Ratcliffe
+Every time you close your eyes, a hacker is learning something new. - Unknown
+The best part about programming is that you can make it do whatever you want. - Unknown
+There are 10 types of people in the world: those who understand binary and those who don’t. - Unknown
+Programming is the art of telling another human being what one wants the computer to do. - Donald Knuth
+If you have a problem, a good programmer will find a solution. A great programmer will find a solution that doesn’t involve programming. - Unknown
+If debugging is the process of removing software bugs, then programming must be the process of putting them in. - Edsger W. Dijkstra
+The best way to escape from a problem is to solve it. - Alan Turing
+There is no place like 127.0.0.1. - Unknown
+In the world of programming, the most important thing is not what you know, but what you can learn. - Unknown
+If you can’t explain it simply, you don’t understand it well enough. - Albert Einstein
+A language that doesn’t affect the way you think about programming is not worth knowing. - Alan Perlis
+The most damaging phrase in the language is: 'We've always done it this way.' - Grace Hopper
+The only limit to our realization of tomorrow will be our doubts of today. - Franklin D. Roosevelt
+A user interface is like a joke. If you have to explain it, it’s not that good. - Martin LeBlanc
+First, solve the problem. Then, write the code. - John Johnson
+Programmers are the wizards of the 21st century. - Unknown
+When in doubt, use brute force. - Ken Thompson
+I don’t care if it works on your machine! We are not shipping your machine! - Vidiu Platon
+The best programmers are those who can think outside the box. - Unknown
+A hacker is someone who enjoys understanding details of a system and how to stretch its capabilities. - Unknown
+Code is like humor. When you have to explain it, it’s bad. - Cory House
+The biggest risk is not taking any risk. - Mark Zuckerberg
+If you can’t convince them, confuse them. - Harry S. Truman
+The greatest danger in times of turbulence is not the turbulence; it is to act with yesterday’s logic. - Peter Drucker
+A good programmer is someone who always looks both ways before crossing a one-way street. - Doug Linder
+The future is already here—it’s just not very evenly distributed. - William Gibson
+A great programmer is a person who always thinks of the future while writing code. - Unknown
+Programming is not about what you know; it’s about what you can figure out. - Chris Pine
+Good code is its own best documentation. - Steve McConnell
+Never underestimate the bandwidth of a station wagon full of tapes hurtling down the highway. - Andrew Tanenbaum
+Hacking is a mindset; it’s about seeing the world differently. - Unknown
+A great programmer is a person who can take a complex problem and reduce it to simple components. - Unknown
+Computer science is no more about computers than astronomy is about telescopes. - Edsger W. Dijkstra
